@@ -18,7 +18,7 @@ def load_data(path):
     return dataset
 
 
-avocado = load_data('avocado.csv')
+avocado = load_data('https://github.com/liannewriting/streamlit_example/blob/main/avocado.csv')
 avocado_stats = avocado.groupby('type')['average_price'].mean()
 
 st.dataframe(avocado_stats)
