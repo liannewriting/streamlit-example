@@ -1,4 +1,4 @@
-This repo saves code for the How to build dashboard apps with Streamlit Python (quick Tutorial) video for our YouTube channel. Please check out the video for detailed explanations. ().
+This repo saves code for the How to build dashboard apps with Streamlit Python (quick Tutorial) video for our YouTube channel. Please check out the video for detailed explanations. (https://youtu.be/6Wc8ttX-SBU).
 
 Welcome to How to build dashboard apps with Streamlit Python (quick Tutorial). You'll build an example web app with an avocado prices dataset.
 
